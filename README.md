@@ -1,3 +1,6 @@
 ### my t-3
 
-- nextjs , typescript, trpc, prisma
+- nextjs(+typescript, +tailwind)
+- trpc
+- prisma
+- nextAuth
