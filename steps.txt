@@ -1,5 +1,0 @@
-1. install nextjs
-
-2. trpc: follow: "https://www.youtube.com/watch?v=qCLV0Iaq9zU"
-
-3.
